@@ -1,2 +1,0 @@
-# resortproject
-html,css,bootstrap
